@@ -13,8 +13,10 @@
    - [CODESPACES](https://github.com/codespaces)**: Untraceable Cloud Laptop.
    - [VS CODE WEB](https://github.dev)**: Professional Cloud Editor.
 8. [BRAVE BROWSER](https://brave.com/)**: Tracker-Free Browsing.
-9. [SD MAID SE](https://github.com/d4rken-org/sdmaid-se)**: Digital Fingerprint Cleanup.
-10.GOOGLE MASTER HUB](https://myaccount.google.com/)**: Central Identity Authority & Security Command Center.
+9. [SD MAID SE](https://github.com/d4rken-org/sdmaid-se) **: Digital Fingerprint Cleanup.
+10. [GOOGLE MASTER HUB] (https://myaccount.google.com/)** Central Identity Authority & Security Command Center.
+11. [AI NOTES HUB] (https://play.google.com/store/apps/details?id=com.ainotesvoice.notepaddiary) For Long Prompts. 
+   
 
 
 ---
