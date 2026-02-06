@@ -19,6 +19,8 @@
 12. **[KEEP NOTES HUB](https://play.google.com/store/apps/details?id=com.google.android.keep)**: For Short Prompts.
 13. **[RUMBLE BATTLES](https://play.google.com/store/apps/details?id=com.rumble.battles)**: Alternative Video Node.
 14. **[YOUTUBE COMMAND](https://play.google.com/store/apps/details?id=com.google.android.youtube)**: Primary Global Broadcast.
+15. **[DOWNLOAD SECURE MEDIA ENGINE](https://www.vidmateapp.com/)**: Primary Global Broadcast.
+
 
 ---
-©️ [ 🌐 HUSSAINI VOICE COMMANDER 🌍 ]
+[ 🌐 HUSSAINI VOICE COMMANDER 🌍 ]
